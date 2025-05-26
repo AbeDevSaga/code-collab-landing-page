@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Code Collab Landing Page
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-FFA500?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-28a745?style=for-the-badge)
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📌 Project Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Code Collab Landing Page** is the marketing and entry interface for the **Code Collab Platform** — a real-time collaborative coding environment. Built using **Next.js** and **Tailwind CSS**, this fully responsive, SEO-optimized landing page highlights all platform features and includes login functionality via **REST APIs**.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+It also features a dedicated **Documentation Section** built within the same Next.js project, guiding users and developers through system usage and API integration.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ✨ Key Features
 
-To learn more about Next.js, take a look at the following resources:
+- 🎨 Fully responsive and interactive landing page
+- 📃 Integrated documentation section within the Next.js app
+- 🔐 REST API-based login system connection
+- 📄 SEO-friendly pages with Next.js server-side rendering
+- 🚀 Fast, clean, and modern UI with Tailwind CSS
+- 📱 Mobile-friendly layout with consistent UX across devices
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+- **Next.js**
+- **Tailwind CSS**
+- **REST API Integration**
+- **React Icons**
+- **Custom Documentation Pages**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📸 Screenshots
+
+> Located in `public/images/`
+
+![Landing Page Screenshot](public/images/Screenshot%202025-05-27%20005850.png)
+![Features Section Screenshot](public/images/Screenshot%202025-05-27%20005906.png)
+![Login Page Screenshot](public/images/Screenshot%202025-05-27%20005948.png)
+![Documentation Section Screenshot](public/images/Screenshot%202025-05-27%20010314.png)
+
+---
+
+## 📖 Documentation
+
+The project includes a complete documentation section inside the Next.js project itself.  
+Navigate to `/docs` in the app to access guides, API references, and usage instructions for Code Collab.
+
+---
+
+## 📞 Contact
+
+- 📧 **Email:** [2000amandanm@gmail.com](mailto:2000amandanm@gmail.com)
+- 🔗 **LinkedIn:** [Amanuel Daniel](https://linkedin.com/in/amanuel-daniel-4573b1309/)
+- 💼 **Upwork:** [Hire Me](https://www.upwork.com/freelancers/~014e7dc7fe05aa7131)
+
+---
+
+## 📌 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
